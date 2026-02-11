@@ -13,3 +13,8 @@ let totalHarga = hargaSatuan * jumlahBeli;
 console.log("Barang: " + namaBarang);
 console.log("Harga: Rp " + hargaSatuan);
 comsloe.log("Jumlah " + jumlahBeli + " buah")
+console.log("______________________________");
+console.log("TOTAL : Rp " + totalHarga);
+console.log("Terima Kasih Telah Berbelanja!");
+consloe.log("Jika ada pertanyaan, kritik & saran silahkan hubungi 081225519223");
+// --- END OF FILE ---
