@@ -29,7 +29,7 @@ console.log("Jika ada pertanyaan, kritik & saran silahkan hubungi 081225519223")
 //*git config --global user.email "email kamu"
 
 // buka terminal di vs code
-// git init
+// git init  
 // git remote add origin "link repository github kamu"
 
 
