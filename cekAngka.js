@@ -9,4 +9,5 @@ for  (let i = 1; i< batasAtas; i ++) { // jika sisa bagi 2 adalah 0 maka angka t
     if (i % 2 === 0) {
         console.log("angka " + i + " adalah GENAP");
 }
-
+}
+// --- END OF FILE ---

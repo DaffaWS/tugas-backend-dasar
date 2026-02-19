@@ -1,5 +1,5 @@
 //file: satpam.js
-let umurPenggunjung = 18; //ubah angka ini nanti
+let umurPenggunjung = 20; //ubah angka ini nanti
 let bawaKTP = true; //ubah nilai ini nanti (true/false) akan berpengaruh terhadap output
 
 console.log("=== Pengecekan Masuk Bioskop ===");
